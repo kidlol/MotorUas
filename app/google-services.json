@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021613134994",
+    "firebase_url": "https://motoruas-6ea1e.firebaseio.com",
+    "project_id": "motoruas-6ea1e",
+    "storage_bucket": "motoruas-6ea1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021613134994:android:6e543b50fccdb231",
+        "android_client_info": {
+          "package_name": "com.example.fvck6.motoruas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021613134994-colsqfsvuv2tjn5ad6qv25llftpmtnoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fvck6.motoruas",
+            "certificate_hash": "70951f40ee3b4b4ddf6acc214a664ce592a7d8ee"
+          }
+        },
+        {
+          "client_id": "1021613134994-48brr8dock9ci5voorqh2pomdv6ko61k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjNZcatQy-ry1VitD4pSzhAXqaHj6fHfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021613134994-48brr8dock9ci5voorqh2pomdv6ko61k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
